@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Key Features
+## 🚀 Key Features Atmega328p
 
 * **Lightweight & High-Performance:** Optimized C++ execution engine for memory-restricted systems.
 * **On-Device Inference:** Run lightweight neural network inference locally without cloud dependence.
